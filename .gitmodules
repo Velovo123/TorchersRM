@@ -1,0 +1,3 @@
+[submodule "roadmapai_backend"]
+	path = roadmapai_backend
+	url = https://github.com/Mixfaa/roadmapai_backend
